@@ -1,7 +1,7 @@
 ### Hi there 👋 I am [Gomathi](https://www.gomathi.me)
 *Web developer|Quick learner|Motivational Speaker*  
 <p align ="center">
- <img src = "images/girl.gif" width="300" height="300">
+ <img src = "images/girl.gif" width="400" height="300">
 </p>
 
 
