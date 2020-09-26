@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Gomathi
 
-<!--
-**gomathiaravindan/gomathiaravindan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently persuing B.Tech 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
