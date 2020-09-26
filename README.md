@@ -1,7 +1,7 @@
 ### Hi there 👋 I am [Gomathi](https://www.gomathi.me)
 *Web developer|Quick learner|Motivational Speaker*                                                                                                                                 
 
-<img src="images/girl.gif" width = "300" height = "300" "center">   
+                                              <img src="images/girl.gif" width = "300" height = "300">   
 
 - 🔭 I’m currently persuing B.Tech IT 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
