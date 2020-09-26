@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Gomathi
-*Web developer|Quick learner|Motivational Speaker*
+*Web developer|Quick learner|Motivational Speaker*                                                                              ![readme](https://user-images.githubusercontent.com/54173246/94338709-077d5e00-0012-11eb-9951-98e4f73e906b.gif)
 
 - 🔭 I’m currently persuing B.Tech IT 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
