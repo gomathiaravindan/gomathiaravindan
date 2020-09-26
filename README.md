@@ -4,7 +4,7 @@
 - 🔭 I’m currently persuing B.Tech 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
 - 👯 I’m looking to do projects on Full Stack and Python programming language
-- 📫 How to reach me: ![Gomathi Aravindan](www.linkedin.com/in/gomathi2000)
+- 📫 How to reach me: [Gomathi Aravindan](www.linkedin.com/in/gomathi2000)(Linkedin)
 - :smile:Portfolio: www.gomathi.me
 - 😄 Pronouns: her
 - ⚡ Fact: "Knowledge and Kindness is the key to success"
