@@ -18,4 +18,4 @@
 
 ## Project:
 
-Front-end(###HTML,CSS,Javascript,Bootstrap): [ArtGallery](https://sketchesgallery.netlify.app/)
+Front-end(HTML,CSS,Javascript,Bootstrap): [ArtGallery](https://sketchesgallery.netlify.app/)
