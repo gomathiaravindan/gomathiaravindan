@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Gomathi
-Web developer|Quick learner|Motivational Speaker
+*Web developer|Quick learner|Motivational Speaker*
 
-- 🔭 I’m currently persuing B.Tech 3rd year in *Government College of Technology*.
+- 🔭 I’m currently persuing B.Tech IT 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
 - 👯 I’m looking to do projects on Full Stack and Python programming language
 - 📫 How to reach me: [Gomathi Aravindan](https://www.linkedin.com/in/gomathi2000)(Linkedin)
@@ -16,3 +16,6 @@ Web developer|Quick learner|Motivational Speaker
  Eager to do projects in Full Stack and Python. Faith in dedication and smart work to achieve things in life. 
  More than my knowledge, kindness is my key to shine among the crowd. Always wishes to be stand out from the crowd.
 
+## Project:
+
+Front-end(###HTML,CSS,Javascript,Bootstrap): [ArtGallery](https://sketchesgallery.netlify.app/)
