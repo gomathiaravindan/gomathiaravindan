@@ -1,5 +1,10 @@
 ### Hi there 👋 I am [Gomathi](https://www.gomathi.me)
-*Web developer|Quick learner|Motivational Speaker*  
+*Web developer|Quick learner|Motivational Speaker*
+
+
+[![gomathiaravindan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/gomathiaravindan)
+   
+
 <p align ="center">
  <img src = "images/girl.gif" width="400" height="300">
 </p>
