@@ -2,7 +2,10 @@
 *Web developer|Quick learner|Motivational Speaker*
 
 
-[![gomathiaravindan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/gomathiaravindan)
+<a href="https://dev.to/gomathiaravindan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="gomathiaravindan's DEV Profile" height="30" width="30">
+</a>
+      
    
 
 <p align ="center">
