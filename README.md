@@ -26,6 +26,12 @@
  Eager to do projects in Full Stack and Python. Faith in dedication and smart work to achieve things in life. 
  More than my knowledge, kindness is my key to shine among the people. Always wishes to be stand out from the crowd. 
  Daily I spent more than 10 hours to develop myself. <p align="center"><img src ="images/routine.gif" width="200" height="150"></p>
+ 
+ 
+ <p>
+        <img src= "https://github-readme-stats.vercel.app/api?username=gomathiaravindan">
+
+<p>
 
 ## Project:
 
