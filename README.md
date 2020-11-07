@@ -17,11 +17,11 @@
 - 📫 How to reach me: [Gomathi Aravindan](https://www.linkedin.com/in/gomathi2000)(Linkedin)
 - :smile:Portfolio: www.gomathi.me
 - 😄 Pronouns: her
-- ⚡ Fact: "Knowledge, Kindness and Selfmotivation is the key to success"
+- ⚡ Fact: "Knowledge, Kindness and Selfmotivation are the key to success"
 
 
 ## About me:
-  Energetic and Passionate learner. Enthusistic and clear minded in solving problems.
+  Energetic and Passionate learner. Enthusiastic and clear minded in solving problems.
   Sincere and with positive attitude.
   Exploring to new teachnologies to develop skills.
   Interested in coding and trying out different projects.
