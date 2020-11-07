@@ -21,10 +21,7 @@
 
 
 ## About me:
-  Passionate programmer and learner. Try to be perfect and do my job up to my best. Always wanted to achieve things in high standard. 
- Deligent worker and solve problems with clear mind and idea. Interested in coding and problem solving. 
- Eager to do projects in Full Stack and Python. Faith in dedication and smart work to achieve things in life. 
- More than my knowledge, kindness is my key to shine among the people. Always wishes to be stand out from the crowd. 
+  
  Daily I spent more than 10 hours to develop myself. <p align="center"><img src ="images/routine.gif" width="200" height="150"></p>
  
 
