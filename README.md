@@ -1,8 +1,8 @@
 ### Hi there 👋 I am [Gomathi](https://www.gomathi.me)
 *Web developer|Quick learner|Motivational Speaker* <a href="https://dev.to/gomathiaravindan">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="gomathiaravindan's DEV Profile" height="30" width="30">
-</a>
-
+  
+[![gomathiaravindan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/gomathiaravindan)
+    
 
 
       
