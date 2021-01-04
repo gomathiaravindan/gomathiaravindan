@@ -22,7 +22,7 @@
 ## About me:
   Energetic and Passionate learner. Enthusiastic and clear minded in solving problems.
   Sincere and with positive attitude.
-  Exploring to new teachnologies to develop skills.
+  Exploring to new technologies to develop skills.
   Interested in coding and trying out different projects.
   Self motivator and make use of my mistakes to learn more.
  Daily I spent more than 10 hours to develop myself. <p align="center"><img src ="images/routine.gif" width="200" height="150"></p>
