@@ -1,5 +1,5 @@
 ### Hi there 👋 I am [Gomathi](https://www.gomathi.me)
-*Web developer|Quick learner|Motivational Speaker* <a href="https://dev.to/gomathiaravindan">
+*Web developer|Quick learner|Motivational Speaker* [Dev Profile](https://dev.to/gomathiaravindan)
   
  
 
@@ -13,7 +13,7 @@
 - 🔭 I’m currently persuing B.Tech IT 3rd year in *Government College of Technology*.
 - 🌱 I’m currently learning Full Stack (Django + Bootstrap)
 - 👯 I’m looking to do projects on Full Stack and Python programming language
-- 📫 How to reach me: [Gomathi Aravindan](https://www.linkedin.com/in/gomathi2000)(Linkedin)
+- 📫 How to reach me: [Gomathi Aravindan](https://www.linkedin.com/in/gomathi2000) (Linkedin)
 - :smile:Portfolio: www.gomathi.me
 - 😄 Pronouns: her
 - ⚡ Fact: "Knowledge, Kindness and Selfmotivation are the key to success"
